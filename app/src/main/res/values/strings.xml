@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">L10PS</string>
+    <string name="songtitle">Song Title:</string>
+    <string name="singers">Singers:</string>
+    <string name="year">Year:</string>
+    <string name="SThint">Enter song title</string>
+    <string name="singersHint">Enter Singers\' names</string>
+    <string name="yearHint">Enter year of release</string>
+    <string name="stars">Stars:</string>
+    <string name="optIS">INSERT</string>
+    <string name="optSL">SHOW LIST</string>
+    <string name="back">BACK</string>
+    <string name="songID">Song ID:</string>
+    <string name="btnUpdate">UPDATE</string>
+    <string name="btnDel">DELETE</string>
+    <string name="btnCancel">CANCEL</string>
+    <string name="btnShowAll">SHOW ALL SONGS WITH 5 STARS</string>
+</resources>
